@@ -1,2 +1,1 @@
-# Stupefied
-Created with CodeSandbox
+Deployed Link: https://kula-app.onrender.com/
