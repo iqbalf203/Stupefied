@@ -173,4 +173,7 @@ h3 {
   .left {
     margin: auto;
   }
+  .nav-btn-custom{
+    position: static;
+  }
 }
