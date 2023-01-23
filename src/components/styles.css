@@ -113,7 +113,7 @@ h3 {
 .left h3 {
   font-size: 1.5rem;
   font-weight: bold;
-  background: -webkit-linear-gradient(100deg, #f3aa3d, #ea37d0);
+  background: -webkit-linear-gradient(130deg, #f3aa3d, #ea37d0);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
