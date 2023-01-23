@@ -165,6 +165,7 @@ h3 {
   .container {
     display: block;
     width: 100%;
+    text-align: center;
   }
   .right {
     visibility: hidden;
