@@ -7,6 +7,30 @@ h3 {
   color: black;
 }
 
+/* Scroll-bar */
+
+::-webkit-scrollbar {
+  /* width */
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  /* Track */
+  box-shadow: inset 0 0 5px grey;
+  border-radius: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  /* Handle */
+  background: rgb(110, 110, 110);
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  /* Handle on hover */
+  background: rgb(110, 110, 110);
+}
+
 /* Navbar */
 .navbar-custom {
   background-color: black;
